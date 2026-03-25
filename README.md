@@ -1,6 +1,6 @@
 # 🎵 Forma-T: Plataforma de Formación Musical
 
-## 📋 Descripción del Proyecto
+## 📋 Descripción del Proyecto 
 Forma-T es una aplicación web diseñada para el aprendizaje musical autodidacta a través de vídeos de YouTube. La plataforma permite a los usuarios registrarse, visualizar el catálogo de cursos y solicitar acceso a los contenidos de manera interactiva.
 
 > [!NOTE]
